@@ -1,0 +1,9 @@
+Included files:
+
+WinCtrl.ctl
+Windows Control.prj
+Form1.frm
+Three .htm's in \web
+WinCtrl.ocx
+Replicator.exe - Click the button to open the program again. One of WinCtrl's functions
+README.txt
